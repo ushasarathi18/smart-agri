@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 Smart Agri Market & Disease Detection — Enterprise Edition
 
 Full-stack agriculture ecosystem for India.
@@ -85,3 +86,7 @@ frontend/
   src/components/      # shared
   src/services/api.js  # axios client
 ```
+=======
+# smart-agri
+AI-based Smart Agriculture Web Application
+>>>>>>> 9b353a10aaaade8de2a236b8705b7a8bf420be15
